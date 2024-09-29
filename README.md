@@ -50,3 +50,4 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 - Dia 01: Parei na aula 2 do curso `Jovem Programador` as 06:31 e percebi que o conteúdo está bem desatualizado com o expo de 2024
 - Dia 02: Comecei um projeto seguindo o material de apoio 1 e parei nos 5:26 após conseguir configurar o android studio e perceber que o PC não aguenta
+- Dia 03: Configurei o tailwindcss e parei aos 9:30.
