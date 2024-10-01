@@ -2,10 +2,10 @@
 
 ## Instalações
 
-Node
+Expo
 
 ```bash
-npm i -g expo-cli
+sudo npm i -g expo-cli
 ```
 
 Instale manualmente em sua maquina o Android Studio para poder Visualizar os resultados do Seu Desenvolvimento
