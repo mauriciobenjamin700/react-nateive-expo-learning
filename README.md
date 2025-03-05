@@ -32,8 +32,9 @@ Obs: Caso seu android studio não esteja configurado, siga esse passo a passo
 - adicione no final do arquivo o seguinte código
 
 ```bash
-export ANDROID_HOME=/home/YOUR_USER_NAME/Android/Sdk
-export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
 
 - Pressione Ctrl + O (isso é a letra "O", não o número zero) para salvar o arquivo.
